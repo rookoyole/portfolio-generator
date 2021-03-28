@@ -12,6 +12,7 @@ const generateAbout = aboutText => {
   `;
 };
 
+/*
 const generateProjects = projectsArr => {
   return `
     <section class="my-3" id="portfolio">
@@ -22,6 +23,7 @@ const generateProjects = projectsArr => {
     </section>
   `;
 };
+*/
 
 const generateProjects = projectsArr => {
   return `
